@@ -1,12 +1,12 @@
 {
-  "name": "2025-react-app",
-  "private": true,
+  "name": "react",
   "version": "0.0.0",
-  "type": "module",
+  "private": true,
+  "homepage": "https://dododojack.github.io/react", 
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
