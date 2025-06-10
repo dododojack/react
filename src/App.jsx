@@ -1,6 +1,6 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
-import viteLogo from "../public/vite.svg";
+import viteLogo from "/vite.svg";
 import "./App.css";
 import MySlider from "./component/rgb-panel/MySlider";
 import MyPanel from "./component/rgb-panel/MyPanel";
@@ -20,7 +20,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>5B1G0033張仕誠</h1>
+      <h1>123456789陳小明</h1>
       <h2>我的第一個元件：Slider</h2>
       <div>
         <p>
